@@ -1,0 +1,10 @@
+Iterator\Canal.class
+Strategy\Funcionario.class
+Iterator\AgregadoDeCanais.class
+Iterator\IteradorCanais.class
+Strategy\CalculoImpostoVinteOuQuinze.class
+Iterator\CanaisEsportes.class
+Iterator\Main.class
+Strategy\CalculaImposto.class
+Strategy\CalculoImpostoQuinzeOuDez.class
+Strategy\Main.class
